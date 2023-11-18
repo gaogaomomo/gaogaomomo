@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 ![image](https://github.com/gaogaomomo/gaogaomomo/blob/main/xiaohuashu.gif)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=600&size=30&pause=1000&color=F7CD2A&background=FFF790AF&center=true&vCenter=true&random=false&width=350&height=40&lines=I'm+a+maths+student.)](https://git.io/typing-svg)
 <!--
 **gaogaomomo/gaogaomomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
